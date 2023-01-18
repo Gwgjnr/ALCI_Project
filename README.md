@@ -1,6 +1,33 @@
+![ALCI Project]
+
+## Site-Goals
+
+The ALCI site is created to allow landscape developers to receive essential updates related to their industry and advertise their work for interested consumers.
+
+## User Stories
+
+- As a landscaper, I want to receive important updates related to my industry
+- As a landscaper, I want to display my work and contact details for potential customers
+- As a landscaper, I want to be able to pay my membership fee easily and receive confirmation of payment
+- As a customer, I want to be able to locate suitable landscapers by location or specialty
+- As a customer, I want to receive a regular newsletter
+- As site admin, I want to be able to view current members and their details
+- As site admin, I want to be able to see the list of current newsletter sign ups
+
+
+
+
+
+
+
+
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome Gwgjnr,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
