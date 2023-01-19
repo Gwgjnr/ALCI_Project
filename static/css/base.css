@@ -13,6 +13,7 @@ a {
     text-decoration: none !important;
     color: #555;
     cursor: pointer;
+    padding-left: 0.5rem;
 }
 
 footer {
@@ -21,4 +22,10 @@ footer {
     width: 100%;
     position: absolute;
     bottom: 0px;
+}
+
+.card-img-top {
+    max-height: 12rem;
+    object-fit: cover;
+    
 }
