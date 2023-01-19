@@ -8,3 +8,17 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+a {
+    text-decoration: none !important;
+    color: #555;
+    cursor: pointer;
+}
+
+footer {
+    height: 3.5rem;
+    background-color: #f7f7f7;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+}
