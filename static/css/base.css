@@ -3,29 +3,52 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-    background-image: url('../../media/background_sample.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 a {
     text-decoration: none !important;
-    color: #555;
+    color: honeydew;
     cursor: pointer;
     padding-left: 0.5rem;
 }
 
+body {
+    background-color: #346830;
+}
+
 footer {
     height: 3.5rem;
-    background-color: #f7f7f7;
+    background-color: #f9c233;
     width: 100%;
     position: absolute;
     bottom: 0px;
+    color: honeydew;
+}
+
+.navbar-styles {
+    background-color: #f9c233 !important;
+}
+
+.nav-link-styling {
+    font-weight: 600;
+    font-size: larger;
+    color: honeydew;
 }
 
 .card-img-top {
     max-height: 12rem;
     object-fit: cover;
-    
+}
+
+.background-container {
+    /* background-image: url('../../media/background_sample.jpg'); */
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card {
+    margin-top: 10%;
+    --bs-card-border-width: 0;
 }
